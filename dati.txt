@@ -1,0 +1,1 @@
+O:12:"Appartamento":5:{s:6:"codice";i:0;s:4:"nome";s:12:"casa al mare";s:7:"abitato";b:1;s:15:"causadisabitato";N;s:10:"termometri";a:2:{i:0;O:10:"Termometro":5:{s:6:"codice";i:1;s:6:"stanza";s:7:"salotto";s:3:"min";i:5;s:3:"max";i:38;s:4:"temp";s:2:"14";}i:1;O:10:"Termometro":5:{s:6:"codice";i:2;s:6:"stanza";s:6:"camera";s:3:"min";i:7;s:3:"max";i:29;s:4:"temp";s:2:"23";}}}
